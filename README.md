@@ -33,7 +33,7 @@ Feel free to collaborate!✨
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AdamAjiLangit/AdamAjiLangit/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gilank884/Gilank884/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
