@@ -1,24 +1,24 @@
 <h1 align="left">Hi There! 👋</h1>
-<h4 align="left">I'm Adam (he/him)</h3>
+<h4 align="left">I'm Lenk (he/him)</h3>
 <p>- i'm a frontend developer, web designer, web programmer, and high school student. I'm interested in web design, My passion is building cool stuff. I build primarily with React, Tailwind CSS, and Framer Motion. I love this stack so much that I even built a website about it.
 Feel free to collaborate!✨
 </p>
 
 - 🌱 I’m currently learning **Nuxt & Vue js**
 
-- 📫 How to reach me **adamajilangit@gmail.com**
+- 📫 How to reach me **[gilankprasetyo8@gmail.com](https://lank-nalank.netlify.app/)**
 
 - ⚡ Fun fact **Water might not be wet💧**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left"> 
-  <a href="mailto:adamajilangit@gmail.com">
+  <a href="mailto:gilankprasetyo8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/adam-aji-langit-817670267/" target="_blank">
+  <a href="https://www.linkedin.com/in/gilang-prasetyo84/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="adamajilangit.me" target="_blank">
+  <a href="Gilank84.me" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -33,7 +33,7 @@ Feel free to collaborate!✨
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AdamAjiLangit/AdamAjiLangit/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gilank884/Gilank884/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -41,8 +41,8 @@ Feel free to collaborate!✨
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AdamAjiLangit&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=AdamAjiLangit&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Gilank884&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Gilank884t&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AdamAjiLangit&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gilank884&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
