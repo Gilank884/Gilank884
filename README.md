@@ -14,7 +14,7 @@ Feel free to collaborate!✨
 
 - 🌱 I’m currently learning **Nuxt & Vue js**
 
-- 📫 How to reach me **[gilankprasetyo8@gmail.com](https://lank-nalank.netlify.app/)**
+- 📫 How to reach me **[gilankprasetyo8@gmail.com]([https://lank-nalank.netlify.app/](https://portofolio-pi-peach.vercel.app/))**
 
 - ⚡ Fun fact **Water might not be wet💧**
 
